@@ -1,0 +1,14 @@
+{
+  "name": "losttype-contributors",
+  "version": "0.0.0",
+  "description": "Contributors to the Lost Type Co-op",
+  "homepage": "http://opensource.losttype.com",
+  "author": "Kenneth Ormandy <hello@kennethormandy.com>",
+  "license": "MIT",
+  "repository": "git@github.com:losttype/contributors.git",
+  "keywords": ["metadata", "losttype", "ecosystem:losttype"],
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified…yet! Pull requests on losttype/contributors are greatly appriciated.\" && exit 1"
+  }
+}
