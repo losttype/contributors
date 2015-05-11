@@ -2,17 +2,30 @@
   "rileycran": {
     "name": "Riley Cran",
     "url": "http://rileycran.com",
-    "contribution": "Operator and Co-Founder"
+    "contribution": "Operator and Co-Founder",
+    "bio": "Riley Cran is a designer based in the Pacific Northwest with a specialty in Identity, Packaging and Illustration. He is the co-founder of the Lost Type Co-op.",
+    "social": {
+      "twitter": "rileycran",
+      "dribbble": "xelent"
+    }
   },
   "dangneiding": {
     "name": "Dan Gneiding",
     "url": "http://grayhood.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "gray_hood",
+      "dribbble": "grayhood"
+    }
   },
   "rickmurphy": {
     "name": "Rick Murphy",
     "url": "http://www.hardlycode.com",
-    "contribution": "Magic"
+    "contribution": "Magic",
+    "social": {
+      "twitter": "flashmurphy",
+      "dribbble": "rick"
+    }
   },
   "tylergalpin": {
     "name": "Tyler Galpin",
@@ -27,12 +40,20 @@
   "jamestedmondson": {
     "name": "James T. Edmondson",
     "url": "http://jamestedmondson.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "jamestedmondson",
+      "dribbble": "jamestedmondson"
+    }
   },
   "timboelaars": {
     "name": "Tim Boelaars",
     "url": "http://www.timboelaars.nl",
-    "contribution": "Illustration"
+    "contribution": "Illustration",
+    "social": {
+      "twitter": "timboelaars",
+      "dribbble": "timboelaars"
+    }
   },
   "richiestewart": {
     "name": "Richie Stewart",
@@ -67,7 +88,12 @@
   "danellecheney": {
     "name": "Danelle Cheney",
     "url": "http://www.danellecheney.com",
-    "contribution": "Admin Assistant"
+    "contribution": "Admin Assistant",
+    "bio": "Appreciator of fine typography and cheeses.",
+    "social": {
+      "twitter": "danellecheney",
+      "dribbble": "danellecheney"
+    }
   },
   "jimleszczynski": {
     "name": "Jim Leszczynski",
@@ -102,7 +128,12 @@
   "francesmacleod": {
     "name": "Frances MacLeod",
     "url": "http://www.francesmacleod.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "bio": "Chicago-based designer and lettering artist who believes sharing snacks will win me friends.",
+    "social": {
+      "twitter": "francesblank",
+      "dribbble": "francesblank"
+    }
   },
   "shivanallaperumal": {
     "name": "Shiva Nallaperumal",
@@ -137,7 +168,11 @@
   "kennethormandy": {
     "name": "Kenneth Ormandy",
     "url": "http://kennethormandy.com",
-    "contribution": "Type Tester"
+    "contribution": "Type Tester",
+    "social": {
+      "twitter": "kennethormandy",
+      "dribbble": "kennethormandy"
+    }
   },
   "martinazambuja": {
     "name": "Martin Azambuja",
