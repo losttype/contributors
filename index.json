@@ -313,5 +313,15 @@
     "name": "Jason Mark Jones",
     "url": "http://www.jasonmarkjones.com",
     "contribution": "Typeface"
+  },
+  "simonwalker": {
+    "name": "Simon Walker",
+    "url": "http://www.simonwalkertype.com",
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "super_furry",
+      "dribbble": "super_furry",
+      "instagram": "superfurry"
+    }
   }
 }
