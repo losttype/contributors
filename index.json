@@ -30,12 +30,20 @@
   "tylergalpin": {
     "name": "Tyler Galpin",
     "url": "http://galp.in",
-    "contribution": "Co-founder"
+    "contribution": "Co-founder",
+    "social": {
+      "twitter": "tylergalpin",
+      "dribbble": "tylergalpin"
+    }
   },
   "joeprince": {
     "name": "Joe Prince",
     "url": "http://admixdesigns.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "joeprince",
+      "dribbble": "itsjoeprince"
+    }
   },
   "jamestedmondson": {
     "name": "James T. Edmondson",
@@ -58,12 +66,21 @@
   "richiestewart": {
     "name": "Richie Stewart",
     "url": "http://commonerinc.com",
-    "contribution": "Illustration"
+    "contribution": "Illustration",
+    "social": {
+      "twitter": "commonerinc",
+      "dribbble": "commonerinc"
+    }
   },
   "jayschaul": {
     "name": "Jay Schaul",
     "url": "http://jayschaul.com",
-    "contribution": "Illustration"
+    "contribution": "Illustration",
+    "social": {
+      "twitter": "jayschaul",
+      "instagram": "jayschaul",
+      "dribbble": "jayschaul"
+    }
   },
   "ryanclark": {
     "name": "Ryan Clark",
@@ -73,17 +90,32 @@
   "mikefortress": {
     "name": "Mike Fortress",
     "url": "http://www.mfortress.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "mfortress",
+      "dribbble": "fortress",
+      "github": "fortress",
+      "instagram": "mfortress"
+    }
   },
   "michaelspitz": {
     "name": "Michael Spitz",
     "url": "http://michaelspitz.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "dribbble": "michaelspitz",
+      "twitter": "m_michaelspitz"
+    }
   },
   "cadecran": {
     "name": "Cade Cran",
     "url": "http://cadecran.com",
-    "contribution": "Art"
+    "contribution": "Art",
+    "social": {
+      "dribbble": "cadecran",
+      "twitter": "cadecran",
+      "instagram": "cadecran"
+    }
   },
   "danellecheney": {
     "name": "Danelle Cheney",
@@ -212,7 +244,12 @@
   "davidcran": {
     "name": "David Cran",
     "url": "http://davidcran.com",
-    "contribution": "Art"
+    "contribution": "Art",
+    "social": {
+      "dribbble": "davidcran",
+      "twitter": "davidcran",
+      "instagram": "davidcran"
+    }
   },
   "mattchase": {
     "name": "Matt Chase",
