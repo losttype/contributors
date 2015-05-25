@@ -135,7 +135,11 @@
   "jimleszczynski": {
     "name": "Jim Leszczynski",
     "url": "http://jimleszczynski.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "dribbble": "jimleszczynski",
+      "twitter": "goodbehaviorco"
+    }
   },
   "daifoldes": {
     "name": "Dai Foldes",
@@ -352,92 +356,159 @@
   "lukelisi": {
     "name": "Luke Lisi",
     "url": "http://lisidesign.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "lisidesign",
+      "dribbble": "lisidesign",
+      "instagram": "lukelisi"
+    }
   },
   "ryanberger": {
     "name": "Ryan Berger",
     "url": "http://simplethreads.co",
-    "contribution": "Photography"
+    "contribution": "Photography",
+    "social": {
+      "twitter": "simplethreads"
+    }
   },
   "derekweathersbee": {
     "name": "Derek Weathersbee",
     "url": "http://www.derekweathersbee.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "dribbble": "djaawn"
+    }
   },
   "lindaeliasen": {
     "name": "Linda Eliasen",
-    "url": "http://dribbble.com/lindaeliasen",
-    "contribution": "Art"
+    "url": "http://lindaeliasen.com",
+    "contribution": "Art",
+    "social": {
+      "dribbble": "lindaeliasen",
+      "twitter": "littlenono"
+    }
   },
   "mauriciocremer": {
     "name": "Mauricio Cremer",
     "url": "http://thesgnl.com",
-    "contribution": "Art"
+    "contribution": "Art",
+    "social": {
+      "dribbble": "mauriciosgnl",
+      "twitter": "mauriciosgnl",
+      "instagram": "mauriciocremer"
+    }
   },
   "chaunosburn": {
     "name": "Chaun Osburn",
     "url": "http://urbaninfluence.com",
-    "contribution": "Art"
+    "contribution": "Art",
+    "social": {
+      "twitter": "pigeonwisdom",
+      "dribbble": "UrbanInfluence"
+    }
   },
   "kadyjesko": {
     "name": "Kady Jesko",
-    "url": "http://kadyje.com",
-    "contribution": "Typeface"
+    "url": "http://cargocollective.com/kadyje",
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "kadyjesko"
+    }
   },
   "oliviaverdugo": {
     "name": "Olivia Verdugo",
     "url": "http://viaver.com",
-    "contribution": "Art"
+    "contribution": "Art",
+    "social": false
   },
   "taylorgoad": {
     "name": "Taylor Goad",
     "url": "http://taylorgoad.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "taylorbgoad",
+      "dribbble": "taylorgoad"
+    }
   },
   "trevorbaum": {
     "name": "Trevor Baum",
     "url": "http://trevorbaum.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "dribbble": "trevorbaum",
+      "twitter": "trevorbaum"
+    }
   },
   "neuarmy": {
     "name": "Neuarmy",
     "url": "http://neuarmy.com",
-    "contribution": "Art"
+    "contribution": "Art",
+    "social": {
+      "twitter": "neuarmy",
+      "dribbble": "neuarmy"
+    }
   },
   "nickmccosker": {
     "name": "Nick McCosker",
     "url": "http://www.nickmacdesign.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "nickmacNC",
+      "dribbble": "nickmac"
+    }
   },
   "gregeckler": {
     "name": "Greg Eckler",
     "url": "http://theviciouscircus.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "greatgreckler",
+      "dribbble": "gregeckler"
+    }
   },
   "bendalrymple": {
     "name": "Ben Dalrymple",
-    "url": "http://www.bendalrymple.com",
-    "contribution": "Typeface"
+    "url": "https://www.behance.net/benjamindalrymple",
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "ben_dalrymple"
+    }
   },
   "jimdore": {
     "name": "Jim Dore",
     "url": "http://jimdore.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "jimdore",
+      "dribbble": "jimdore"
+    }
   },
   "chandlervandewater": {
     "name": "C. Van De Water",
     "url": "http://chandlervdw.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "chandlervdw",
+      "dribbble": "chandlervdw"
+    }
   },
   "atipus": {
     "name": "Atipus",
     "url": "http://www.atipus.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "atipus"
+    }
   },
   "jasonmarkjones": {
     "name": "Jason Mark Jones",
     "url": "http://www.jasonmarkjones.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "jasonmarkjones",
+      "dribbble": "jasonmarkjones",
+      "instagram": "jasonmarkjones"
+    }
   },
   "simonwalker": {
     "name": "Simon Walker",
