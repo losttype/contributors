@@ -85,7 +85,12 @@
   "ryanclark": {
     "name": "Ryan Clark",
     "url": "http://ryanvsclark.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "ryanvsclark",
+      "dribbble": "ryanvsclark",
+      "instagram": "ryanvsclark"
+    }
   },
   "mikefortress": {
     "name": "Mike Fortress",
@@ -135,27 +140,47 @@
   "daifoldes": {
     "name": "Dai Foldes",
     "url": "http://daifoldes.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "daifoldes",
+      "dribbble": "daifoldes"
+    }
   },
   "andymangold": {
     "name": "Andy Mangold",
     "url": "http://andymangold.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "andymangold",
+      "dribbble": "andymangold"
+    }
   },
   "alonzofelix": {
     "name": "Alonzo Felix",
     "url": "http://www.alonzofelix.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "alonzofelix",
+      "dribbble": "alonzofelix"
+    }
   },
   "ericmortensen": {
     "name": "Eric Mortensen",
     "url": "http://www.ericrmortensen.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "ericmortensen",
+      "dribbble": "ericrmortensen"
+    }
   },
   "bonnieclas": {
     "name": "Bonnie Clas",
     "url": "http://bonnieclas.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "instagram": "bonnieclas",
+      "dribbble": "bonnieclas"
+    }
   },
   "francesmacleod": {
     "name": "Frances MacLeod",
@@ -164,38 +189,62 @@
     "bio": "Chicago-based designer and lettering artist who believes sharing snacks will win me friends.",
     "social": {
       "twitter": "francesblank",
-      "dribbble": "francesblank"
+      "dribbble": "francesblank",
+      "instagram": "francesblank"
     }
   },
   "shivanallaperumal": {
     "name": "Shiva Nallaperumal",
     "url": "http://shiva-n.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "shiva__n",
+      "dribbble": "shivanallaperumal",
+      "instagram": "shiva___n"
+    }
   },
   "elihorn": {
     "name": "Eli Horn",
     "url": "http://fivethousandfingers.net ",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "5000_Fingers"
+    }
   },
   "tippletype": {
     "name": "TippleType",
     "url": "http://tippletype.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "TippleType"
+    }
   },
   "aaronscamihorn": {
     "name": "Aaron Scamihorn",
     "url": "http://www.ronlewhorn.com",
-    "contribution": "Art"
+    "contribution": "Art",
+    "social": {
+      "twitter": "ronlewhorn",
+      "dribbble": "ronlewhorn"
+    }
   },
   "morganknutson": {
     "name": "Morgan Knutson",
     "url": "http://morganallanknutson.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "dribbble": "morgan",
+      "twitter": "morganknutson"
+    }
   },
   "javierviramontes": {
     "name": "Javier Viramontes",
     "url": "http://javierviramontes.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "dribbble": "javiramontes",
+      "twitter": "javiramontes"
+    }
   },
   "kennethormandy": {
     "name": "Kenneth Ormandy",
@@ -203,43 +252,73 @@
     "contribution": "Type Tester",
     "social": {
       "twitter": "kennethormandy",
-      "dribbble": "kennethormandy"
+      "dribbble": "kennethormandy",
+      "instagram": "kennethormandy",
+      "github": "kennethormandy"
     }
   },
   "martinazambuja": {
     "name": "Martin Azambuja",
     "url": "http://maz.com.uy",
-    "contribution": "Art"
+    "contribution": "Art",
+    "social": {
+      "twitter": "MAz_martin",
+      "instagram": "martinazambuja",
+      "dribbble": "maz_martin"
+    }
   },
   "jakedugard": {
     "name": "Jake Dugard",
     "url": "http://www.jakedugard.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "jakedugard",
+      "instagram": "jakedugard",
+      "dribbble": "jakedugard"
+    }
   },
   "vanessalam": {
     "name": "Vanessa Lam",
     "url": "http://vanessalam.net",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": false
   },
   "davewhitley": {
     "name": "Dave Whitley",
     "url": "http://www.davewhitley.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "davecave",
+      "dribbble": "davecave"
+    }
   },
   "evanhuwa": {
     "name": "Evan Huwa",
     "url": "http://evanhuwa.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "evanhuwa",
+      "dribbble": "evanhuwa"
+    }
   },
   "missyaustin": {
     "name": "Missy Austin",
     "url": "http://www.missyaustin.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "missyaustin3",
+      "instagram": "missyaustin3",
+      "dribbble": "missyaustin3"
+    }
   },
   "jamesgeorgedunn": {
     "name": "James George Dunn",
     "url": "http://jamesgeorgedunn.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "dribbble": "jamesgeorgedunn",
+      "twitter": "jamesgeorgedunn"
+    }
   },
   "davidcran": {
     "name": "David Cran",
@@ -254,12 +333,21 @@
   "mattchase": {
     "name": "Matt Chase",
     "url": "http://www.chasematt.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "doble_entendre",
+      "instagram": "doble_entendre",
+      "dribbble": "doble_entendre"
+    }
   },
   "ellislathambrown": {
     "name": "Ellis Latham-Brown",
     "url": "http://theyoungmensdangerclub.com",
-    "contribution": "Typeface"
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "olmandanger",
+      "dribbble": "youngmensdangerclub"
+    }
   },
   "lukelisi": {
     "name": "Luke Lisi",
