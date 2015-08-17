@@ -8,7 +8,13 @@
       "twitter": "rileycran",
       "instagram": "rileycran",
       "dribbble": "xelent"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripsf",
+      "fieldtripny",
+      "fieldtripam",
+      "fieldtripchi"
+    ]
   },
   "dangneiding": {
     "name": "Dan Gneiding",
@@ -17,7 +23,13 @@
     "social": {
       "twitter": "gray_hood",
       "dribbble": "grayhood"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripsf",
+      "fieldtripny",
+      "fieldtripam",
+      "fieldtripchi"
+    ]
   },
   "rickmurphy": {
     "name": "Rick Murphy",
@@ -53,7 +65,10 @@
     "social": {
       "twitter": "jamestedmondson",
       "dribbble": "jamestedmondson"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripsf"
+    ]
   },
   "timboelaars": {
     "name": "Tim Boelaars",
@@ -121,7 +136,11 @@
       "dribbble": "cadecran",
       "twitter": "cadecran",
       "instagram": "cadecran"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripny",
+      "fieldtripam"
+    ]
   },
   "danellecheney": {
     "name": "Danelle Cheney",
@@ -131,7 +150,11 @@
     "social": {
       "twitter": "danellecheney",
       "dribbble": "danellecheney"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripam",
+      "fieldtripchi"
+    ]
   },
   "jimleszczynski": {
     "name": "Jim Leszczynski",
@@ -140,7 +163,12 @@
     "social": {
       "dribbble": "jimleszczynski",
       "twitter": "goodbehaviorco"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripsf",
+      "fieldtripny",
+      "fieldtripchi"
+    ]
   },
   "daifoldes": {
     "name": "Dai Foldes",
@@ -196,7 +224,12 @@
       "twitter": "francesblank",
       "dribbble": "francesblank",
       "instagram": "francesblank"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripny",
+      "fieldtripam",
+      "fieldtripchi"
+    ]
   },
   "shivanallaperumal": {
     "name": "Shiva Nallaperumal",
@@ -260,7 +293,10 @@
       "dribbble": "kennethormandy",
       "instagram": "kennethormandy",
       "github": "kennethormandy"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripchi"
+    ]
   },
   "martinazambuja": {
     "name": "Martin Azambuja",
@@ -397,7 +433,13 @@
       "dribbble": "mauriciosgnl",
       "twitter": "mauriciosgnl",
       "instagram": "mauriciocremer"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripsf",
+      "fieldtripny",
+      "fieldtripam",
+      "fieldtripchi"
+    ]
   },
   "chaunosburn": {
     "name": "Chaun Osburn",
@@ -406,7 +448,10 @@
     "social": {
       "twitter": "pigeonwisdom",
       "dribbble": "UrbanInfluence"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripchi"
+    ]
   },
   "kadyjesko": {
     "name": "Kady Jesko",
@@ -438,7 +483,11 @@
     "social": {
       "dribbble": "trevorbaum",
       "twitter": "trevorbaum"
-    }
+    },
+    "fieldtrip": [
+      "fieldtripsf",
+      "fieldtripny"
+    ]
   },
   "neuarmy": {
     "name": "Neuarmy",
