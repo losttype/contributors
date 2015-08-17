@@ -13,6 +13,9 @@
   ],
   "main": "index.json",
   "scripts": {
-    "test": "echo \"Error: no test specified…yet! Pull requests on losttype/contributors are greatly appriciated.\" && exit 1"
+    "test": "jsonlint *.json"
+  },
+  "devDependencies": {
+    "jsonlint": "latest"
   }
 }
