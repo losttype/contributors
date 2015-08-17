@@ -569,5 +569,44 @@
       "dribbble": "super_furry",
       "instagram": "superfurry"
     }
+  },
+  "kellythorn": {
+    "name": "Kelly Thorn",
+    "url": "http://kellythorn.com",
+    "contribution": "Field Trip, MC",
+    "social": {
+      "twitter": "jellythorn",
+      "dribbble": "jellythorn",
+      "instagram": "jellythorn"
+    },
+    "fieldtrip": [
+      "fieldtripchi"
+    ]
+  },
+  "spencercharles": {
+    "name": "Spencer Charles",
+    "url": "http://spencercharles.com",
+    "contribution": "Field Trip",
+    "social": {
+      "twitter": "sponcey",
+      "dribbble": "spencercharles",
+      "instagram": "spencercharles"
+    },
+    "fieldtrip": [
+      "fieldtripchi"
+    ]
+  },
+  "marisolortega": {
+    "name": "Marisol Ortega",
+    "url": "http://marisolortega.com",
+    "contribution": "Field Trip",
+    "social": {
+      "twitter": "_marisol_ortega",
+      "dribbble": "marisolortega",
+      "instagram": "marisol.ortega"
+    },
+    "fieldtrip": [
+      "fieldtripchi"
+    ]
   }
 }
