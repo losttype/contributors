@@ -570,10 +570,33 @@
       "instagram": "superfurry"
     }
   },
+  "davecoleman": {
+    "name": "Dave Coleman",
+    "url": "http://www.theagsc.com/",
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "dvclmn",
+      "instagram": "theagsc"
+    }
+  },
+  "alannamunro": {
+    "name": "Alanna Munro",
+    "url": "http://alannamunro.com",
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "alannamun",
+      "dribble": "alannamun",
+      "instagram": "alannamun",
+      "github": "alannamun"
+    },
+    "fieldtrip": [
+      "fieldtripvan"
+    ]
+  },
   "kellythorn": {
     "name": "Kelly Thorn",
     "url": "http://kellythorn.com",
-    "contribution": "Field Trip, MC",
+    "contribution": "Typeface",
     "social": {
       "twitter": "jellythorn",
       "dribbble": "jellythorn",
@@ -586,7 +609,7 @@
   "spencercharles": {
     "name": "Spencer Charles",
     "url": "http://spencercharles.com",
-    "contribution": "Field Trip",
+    "contribution": "Typeface",
     "social": {
       "twitter": "sponcey",
       "dribbble": "spencercharles",
@@ -596,10 +619,21 @@
       "fieldtripchi"
     ]
   },
+  "mikamelvas": {
+    "name": "Mika Melvas",
+    "url": "http://mikamelvas.fi",
+    "contribution": "Art",
+    "location": "Vantaa, Finland",
+    "social": {
+      "twitter": "melvastype",
+      "dribbble": "melvastype",
+      "instagram": "melvastype"
+    }
+  },
   "marisolortega": {
     "name": "Marisol Ortega",
     "url": "http://marisolortega.com",
-    "contribution": "Field Trip",
+    "contribution": "Art",
     "social": {
       "twitter": "_marisol_ortega",
       "dribbble": "marisolortega",
@@ -608,5 +642,15 @@
     "fieldtrip": [
       "fieldtripchi"
     ]
+  },
+  "martinazambuja": {
+    "name": "Martin Azambuja",
+    "url": "http://martinazambuja.com",
+    "contribution": "Art",
+    "location": "Montevideo, Uruguay",
+    "social": {
+      "twitter": "MAz_martin",
+      "instagram": "martinazambuja"
+    }
   }
 }
