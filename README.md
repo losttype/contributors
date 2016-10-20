@@ -43,6 +43,15 @@ After you’ve exposed it to your templates, you should be able to make use of i
 
 Want to add a new contributor to the Lost Type metadata? Thanks! [Click here to create a fork of the losttype/contributors repository](https://github.com/losttype/contributors/edit/master/index.json) and start editing the `index.json` metadata file.
 
+### TODO
+
+- Sean MacMahon
+- PSY/OPS
+- Amanda Gneiding
+- Scotty Reifsnyder
+- Connor Davenport
+- Erik Hamline (Steadyprint)
+
 ## License
 
 Available under [the MIT License](LICENSE.md) from your friends at [Lost Type](http://twitter.com/losttypecoop).
