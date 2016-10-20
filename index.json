@@ -575,7 +575,15 @@
     "url": "http://www.theagsc.com/",
     "contribution": "Typeface",
     "social": {
-      "twitter": "dvclmn",
+      "twitter": "dvclmn"
+    }
+  },
+  "theagsc": {
+    "name": "The AGSC",
+    "url": "http://www.theagsc.com/",
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "theagsc",
       "instagram": "theagsc"
     }
   },
@@ -618,6 +626,16 @@
     "fieldtrip": [
       "fieldtripchi"
     ]
+  },
+  "charlesandthorn": {
+    "name": "Charles&Thorn",
+    "url": "http://charlesandthorn.com",
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "charlesandthorn",
+      "dribbble": "charlesandthorn",
+      "instagram": "charlesandthorn"
+    }
   },
   "mikamelvas": {
     "name": "Mika Melvas",
