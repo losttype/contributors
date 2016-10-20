@@ -300,8 +300,9 @@
   },
   "martinazambuja": {
     "name": "Martin Azambuja",
-    "url": "http://maz.com.uy",
+    "url": "http://martinazambuja.com",
     "contribution": "Art",
+    "location": "Montevideo, Uruguay",
     "social": {
       "twitter": "MAz_martin",
       "instagram": "martinazambuja",
@@ -534,7 +535,7 @@
     }
   },
   "chandlervandewater": {
-    "name": "C. Van De Water",
+    "name": "Chandler Van De Water",
     "url": "http://chandlervdw.com",
     "contribution": "Typeface",
     "social": {
@@ -661,14 +662,33 @@
       "fieldtripchi"
     ]
   },
-  "martinazambuja": {
-    "name": "Martin Azambuja",
-    "url": "http://martinazambuja.com",
-    "contribution": "Art",
-    "location": "Montevideo, Uruguay",
+  "neilsecretario": {
+    "name": "Neil Secretario",
+    "url": "http://neilsecretario.com",
+    "contribution": "Typeface",
     "social": {
-      "twitter": "MAz_martin",
-      "instagram": "martinazambuja"
+      "twitter": "neilsecretario",
+      "dribbble": "neilsecretario",
+      "instagram": "neilsecretario"
+    }
+  },
+  "davebailey": {
+    "name": "Dave Bailey",
+    "url": "http://bezierwrangler.com",
+    "contribution": "Typeface",
+    "social": {
+      "twitter": "bezierwrangler",
+      "dribbble": "bezierwrangler",
+      "instagram": "bezierwrangler"
+    }
+  },
+  "heatherneale": {
+    "name": "Heather Neale",
+    "url": "http://www.heatherneale.com/",
+    "contribution": "Art",
+    "social": {
+      "twitter": "heatherneale",
+      "instagram": "heatherneale"
     }
   }
 }
